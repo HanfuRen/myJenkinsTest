@@ -1,0 +1,2 @@
+# myJenkinsTest
+test Jenkins program
